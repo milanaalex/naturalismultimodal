@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+torch
+torchvision
+torchaudio
+open_clip_torch
+pillow
+transformers
+accelerate
+sentencepiece
+tokenizers
+tqdm
+requests
+jupyter
+ipykernel
