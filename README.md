@@ -80,6 +80,7 @@ Under the realistic **Order-Cleaned Metadata** condition it achieved:
 
 ---
 
+
 ## Environment
 
 Experiments were implemented using Python together with:
@@ -94,7 +95,16 @@ Experiments were implemented using Python together with:
 Training was performed on the Dutch national supercomputer **Snellius** using NVIDIA A100 GPUs.
 
 ---
+## Installation
+
+Create a Python environment and install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+The main model experiments were developed and executed on the Dutch national supercomputer Snellius using Python 3.10.
 
 ## Note
 
-Overall, this repository accompanies the experimental workflow used to obtain the reported results. 
+Overall, this repository accompanies the experimental workflow used to obtain the reported results and evaluation metrics for taxonomic metadata completion.
